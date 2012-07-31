@@ -1,0 +1,11 @@
+Client ID: 625773516365.apps.googleusercontent.com
+Email address: 625773516365@developer.gserviceaccount.com
+Client secret: UttHq3X9tptzwvQaDMyZw2Pv
+Redirect URIs: http://localhost:8888/oauth2callback
+JavaScript origins:	https://localhost
+
+API key: AIzaSyC2pch2wSjF3vcKRyRGboyJRvGCWkT3Ry8
+Referers: Any referer allowed
+Activated on:	Jul 14, 2012 8:17 AM
+Activated by:	 pete140692@gmail.com
+
